@@ -1,0 +1,8 @@
+.wrapper .video {
+    border : 1px solid grey;
+}
+
+.video-detail {
+    border : 1px solid grey;
+    padding: 1px;
+}
